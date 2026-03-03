@@ -52,7 +52,7 @@ chmod 755 /usr/local/bin/showtime.sh
 ```bash
 nano /etc/systemd/system/showtime.service
 ```
-![service file screenshot](../images/serices.png)
+![service file screenshot](../images/services.png)
 
 ### Step 3 - Reload systemd and Enable Service
 ```bash
